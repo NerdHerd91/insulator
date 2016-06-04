@@ -1,0 +1,25 @@
+{
+  "name": "insulator",
+  "version": "1.0.0",
+  "description": "Analysis of project's javascript code coverage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerdHerd91/insulator.git"
+  },
+  "keywords": [
+    "insulator",
+    "coverage",
+    "code-coverage",
+    "test-coverage"
+  ],
+  "author": "Sean Ventrella <sventrel@outlook.com> (http://NerdHerd91.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NerdHerd91/insulator/issues"
+  },
+  "homepage": "https://github.com/NerdHerd91/insulator#readme"
+}
