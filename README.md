@@ -1,5 +1,5 @@
 # insulator
-*Analysis of project's javascript code coverage*
+*Analysis of project's javascript code coverage* - **IN PROGRESS**
 
 [![npm version](https://img.shields.io/npm/v/insulator.svg)](https://www.npmjs.com/package/insulator)
 [![npm downloads](https://img.shields.io/npm/dm/insulator.svg)](https://www.npmjs.com/package/insulator)
